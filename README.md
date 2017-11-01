@@ -1,4 +1,8 @@
 # selena
+Learning from 
+https://github.com/mcohen01/amazonica
+and 
+https://github.com/tmarble/webica
 
 FIXME: description
 
